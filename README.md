@@ -6,6 +6,13 @@ Here's a clean and descriptive `README.md` you can use for your GitHub repo of t
 
 **NewsSphere** is a beautiful React.js web application that displays the latest top headlines from various categories using the [NewsAPI](https://newsapi.org/). It supports pagination, category-based filtering, and a responsive UI powered by Bootstrap 5.
 
+
+### 📸 Screenshots
+
+![NewsSphere Preview](/s1.png)
+![NewsSphere Preview](/s2.png)
+
+
 ---
 
 ### 🚀 Features
